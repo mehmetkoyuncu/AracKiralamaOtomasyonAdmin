@@ -1,0 +1,10 @@
+C:\Users\mkoyu\Desktop\c#MyProjects\MKAracKira\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\mkoyu\Desktop\c#MyProjects\MKAracKira\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\mkoyu\Desktop\c#MyProjects\MKAracKira\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\mkoyu\Desktop\c#MyProjects\MKAracKira\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\mkoyu\Desktop\c#MyProjects\MKAracKira\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\mkoyu\Desktop\C#\c#MyProjects\MKAracKira\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\mkoyu\Desktop\C#\c#MyProjects\MKAracKira\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\mkoyu\Desktop\C#\c#MyProjects\MKAracKira\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\mkoyu\Desktop\C#\c#MyProjects\MKAracKira\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\mkoyu\Desktop\C#\c#MyProjects\MKAracKira\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

@@ -1,0 +1,10 @@
+C:\Users\mkoyu\Desktop\c#MyProjects\MKAracKira\Entities\bin\Debug\Entities.dll
+C:\Users\mkoyu\Desktop\c#MyProjects\MKAracKira\Entities\bin\Debug\Entities.pdb
+C:\Users\mkoyu\Desktop\c#MyProjects\MKAracKira\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\mkoyu\Desktop\c#MyProjects\MKAracKira\Entities\obj\Debug\Entities.dll
+C:\Users\mkoyu\Desktop\c#MyProjects\MKAracKira\Entities\obj\Debug\Entities.pdb
+C:\Users\mkoyu\Desktop\C#\c#MyProjects\MKAracKira\Entities\bin\Debug\Entities.dll
+C:\Users\mkoyu\Desktop\C#\c#MyProjects\MKAracKira\Entities\bin\Debug\Entities.pdb
+C:\Users\mkoyu\Desktop\C#\c#MyProjects\MKAracKira\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\mkoyu\Desktop\C#\c#MyProjects\MKAracKira\Entities\obj\Debug\Entities.dll
+C:\Users\mkoyu\Desktop\C#\c#MyProjects\MKAracKira\Entities\obj\Debug\Entities.pdb
